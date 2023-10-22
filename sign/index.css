@@ -1,0 +1,196 @@
+.app {
+  width: 375px;
+  height: 812px;
+  background-color: #f0f5f9;
+  margin: auto;
+}
+
+.header {
+  height: 88px;
+  background-image: linear-gradient(0, #f0f5f9);
+  margin: 0 auto;
+}
+
+.header_navbar {
+  display: flex;
+}
+
+.header_navbar ul {
+}
+
+.header_navbar-list {
+  list-style: none;
+}
+
+.header_navbar-item {
+  display: inline-block;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 16px;
+  justify-content: space-between;
+  margin: 0 8px;
+}
+
+.header_navbar-item img {
+  width: 32px;
+  height: 32px;
+}
+
+.header_navbar-money {
+  width: 343px;
+  height: 56px;
+  background-color: rgba(237, 240, 242, 1);
+  border-radius: 16px;
+  margin: auto;
+}
+
+.header_navbar-see-money {
+  display: -webkit-box;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 16px;
+  padding: 8px 20px 8px 20px;
+  margin: auto;
+  color: black;
+}
+
+#money {
+  font-size: 22px;
+  color: rgba(99, 196, 123, 1);
+  padding: 6px 10px 5px 80px;
+  margin: 0;
+}
+
+#icon {
+  padding: 8px 10px 5px 5px;
+  margin: 0;
+}
+
+.header_navbar-category {
+  width: 343px;
+  height: 88px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+  margin: 10px auto;
+}
+
+.header_navbar-category-icon {
+  display: flex;
+}
+
+.header_navbar-category-list {
+  list-style: none;
+}
+
+.header_navbar-category-item {
+  display: inline-block;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 14px;
+}
+
+.header_navbar-category-item img {
+  width: 32px;
+  height: 32px;
+  margin: 0px 50px 0px -10px;
+}
+
+.header_navbar-category-item p {
+  margin: 10px 25px 0px -20px;
+}
+
+.navbar_sidebar {
+  width: 15px;
+  height: 2px;
+  border-radius: 1.5px;
+  background-color: rgb(58 55 55);
+  margin: 0px 168px 0px;
+}
+
+.navbar_sidebar1 {
+  width: 15px;
+  height: 2px;
+  border-radius: 1.5px;
+  background-color: rgb(167, 16, 16);
+  margin: -2px 190px 0px;
+}
+
+.header_navbar-categorys {
+  width: 343px;
+  height: 343px;
+  background-color: rgba(237, 240, 242, 1);
+  border-radius: 16px;
+  margin: 10px auto;
+}
+/*list1*/
+.header_navbar-categorys-icon1 {
+  display: flex;
+}
+
+.header_navbar-categorys-list1 {
+  list-style: none;
+}
+
+.header_navbar-categorys-item1 {
+  display: inline-block;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 14px;
+}
+
+.header_navbar-categorys-item1 img {
+  width: 44px;
+  height: 44px;
+  margin: 0px 67px -8px -13px;
+}
+
+.header_navbar-categorys-item1 p {
+  margin: 10px 0px 0px -20px;
+}
+
+/*list2*/
+.header_navbar-categorys-icon2 {
+  display: flex;
+  margin-top: 15px;
+}
+
+.header_navbar-categorys-list2 {
+  list-style: none;
+}
+
+.header_navbar-categorys-item2 {
+  display: inline-block;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 14px;
+}
+
+.header_navbar-categorys-item2 img {
+  width: 44px;
+  height: 44px;
+  margin: 0px 67px -8px -13px;
+}
+
+.header_navbar-categorys-item2 p {
+  margin: 10px 0px 0px -20px;
+}
+/*list3*/
+.header_navbar-categorys-icon3 {
+  display: flex;
+  margin-top: 20px;
+}
+
+.header_navbar-categorys-list3 {
+  list-style: none;
+}
+
+.header_navbar-categorys-item3 {
+  display: inline-block;
+  font-family: "Kodchasan", sans-serif;
+  font-size: 14px;
+}
+
+.header_navbar-categorys-item3 img {
+  width: 44px;
+  height: 44px;
+  margin: 0px 67px -8px -13px;
+}
+
+.header_navbar-categorys-item3 p {
+  margin: 10px 0px 0px -20px;
+}
